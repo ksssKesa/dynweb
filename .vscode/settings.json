@@ -1,0 +1,8 @@
+{
+    "typescript.implementationsCodeLens.enabled": false,
+    "search.smartCase": true,
+    "editor.defaultFormatter": "vscode.php-language-features",
+    "accessibility.signals.lineHasError": {
+        "sound": "on"
+    }
+}
